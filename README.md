@@ -1,2 +1,0 @@
-# OmarG
-my game
